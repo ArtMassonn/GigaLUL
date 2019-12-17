@@ -1,0 +1,11 @@
+D:\Test_Selskiy_Artem\test_Selskiy_Artem\test_Selskiy_Artem\bin\Debug\test_Selskiy_Artem.exe.config
+D:\Test_Selskiy_Artem\test_Selskiy_Artem\test_Selskiy_Artem\bin\Debug\test_Selskiy_Artem.exe
+D:\Test_Selskiy_Artem\test_Selskiy_Artem\test_Selskiy_Artem\bin\Debug\test_Selskiy_Artem.pdb
+D:\Test_Selskiy_Artem\test_Selskiy_Artem\test_Selskiy_Artem\obj\Debug\test_Selskiy_Artem.csprojAssemblyReference.cache
+D:\Test_Selskiy_Artem\test_Selskiy_Artem\test_Selskiy_Artem\obj\Debug\test_Selskiy_Artem.Autorization.resources
+D:\Test_Selskiy_Artem\test_Selskiy_Artem\test_Selskiy_Artem\obj\Debug\test_Selskiy_Artem.Properties.Resources.resources
+D:\Test_Selskiy_Artem\test_Selskiy_Artem\test_Selskiy_Artem\obj\Debug\test_Selskiy_Artem.Registration.resources
+D:\Test_Selskiy_Artem\test_Selskiy_Artem\test_Selskiy_Artem\obj\Debug\test_Selskiy_Artem.csproj.GenerateResource.cache
+D:\Test_Selskiy_Artem\test_Selskiy_Artem\test_Selskiy_Artem\obj\Debug\test_Selskiy_Artem.csproj.CoreCompileInputs.cache
+D:\Test_Selskiy_Artem\test_Selskiy_Artem\test_Selskiy_Artem\obj\Debug\test_Selskiy_Artem.exe
+D:\Test_Selskiy_Artem\test_Selskiy_Artem\test_Selskiy_Artem\obj\Debug\test_Selskiy_Artem.pdb
